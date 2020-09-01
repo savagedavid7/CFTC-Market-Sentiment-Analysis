@@ -5,7 +5,7 @@ By using the weekly Commitments of Trader (CoT) report from the CFTC, I calculat
 
 To demonstrate, below is the current net positioning on the Euro and the price performance of the Euro over the same time frame.
 
-![EURCFTC](Images/EURCFTC.PNG)
+![EURCFTC](Images/EUR_CFTC.png)
 
 ![EURprice](Images/EURprice_edit.png)
 
